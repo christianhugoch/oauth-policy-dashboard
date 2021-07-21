@@ -1,0 +1,17 @@
+#topbar {
+  padding: 0.4rem 0rem 0.4rem 0rem;
+}
+
+#topbar .btn {
+  background-color: #f8f9fa!important;
+  border: none;
+}
+
+.dot {
+  height: 38px;
+  width: 38px;
+  background-color: #0074D9;
+  color: white;
+  border-radius: 50%;
+  text-transform: uppercase;
+}

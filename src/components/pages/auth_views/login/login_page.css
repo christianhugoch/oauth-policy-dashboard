@@ -1,0 +1,47 @@
+.head-bar-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+  
+.heading-start-column { 
+    grid-column-start: 2; 
+}
+
+.large-logo-negativ-margin {
+    margin-top: -60px;
+}
+
+.policies-headline {
+    font-size: 1.6rem;
+    font-weight: 510;
+    text-transform: uppercase;
+    letter-spacing: .07rem;  
+    color: #3a3b45!important;
+    margin-top: -4px;
+}
+
+.card-width {
+    width: 700px;
+}
+
+.card-body-size {
+    max-width: 700px;
+    min-width: 700px!important;
+}
+
+.text-gray-400 {
+    color: #3a3b45!important;
+    font-weight: 400!important;
+}
+
+.idp-label {
+    color: #3a3b45!important;
+    margin-bottom: 0px;
+    font-weight: normal;
+}
+
+.tooltip-inner {
+    min-width: 300px;
+    max-width: 300px;
+}

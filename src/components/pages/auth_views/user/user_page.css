@@ -1,0 +1,31 @@
+.info-box {
+    background-color: #9CC3D5FF;
+    border-radius: 1rem;
+    max-width: 26em;
+    margin-top: 48px;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+input {
+    background-color: white!important;
+}
+
+.big-dot {
+    height: 80px;
+    width: 80px;
+    background-color: #0074D9;
+    color: white;
+    border-radius: 50%;
+    text-transform: uppercase;
+    margin-top: -30px;
+    font-size: x-large;
+}
+
+label {
+    font-weight: bold;
+}
+
+hr {
+    border-top: 3px solid rgba(255,255,255,.15);
+}

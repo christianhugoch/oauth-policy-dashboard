@@ -1,0 +1,15 @@
+.about-box {
+    margin-left: auto;
+    margin-right: auto;    
+    margin-top: 24px;
+    max-width: 39em;
+}
+
+.inner-box {
+    padding-right: 22px;
+    padding-left: 22px;
+}
+
+h5 {
+    color: #837e74;
+}
